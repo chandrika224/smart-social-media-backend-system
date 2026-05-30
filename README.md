@@ -1,4 +1,4 @@
-# smart-social-media-backend-system
+# Vironix – Intelligent Social Media Backend Platform
 Built a modular monolith social interaction platform with Redis-based concurrency protection, virality tracking, guardrail enforcement, and event-driven notification batching.
 
 **Overview**
